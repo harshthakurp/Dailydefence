@@ -42,6 +42,7 @@ GMAIL_APP_PASS  = "uscc ugea lcbi zdmj"    # Gmail App Password (NOT your login 
 # ║              📡  FREE RSS FEED SOURCES                      ║
 # ╚══════════════════════════════════════════════════════════════╝
 
+
 RSS_FEEDS = [
     {
         "name":  "Defence Technology",
