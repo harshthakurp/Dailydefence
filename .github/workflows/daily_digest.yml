@@ -2,7 +2,7 @@ name: Defence Digest Daily Email
 
 on:
   schedule:
-    - cron: '05 6 * * *'
+    - cron: '15 6 * * *'
   workflow_dispatch:
 
 jobs:
