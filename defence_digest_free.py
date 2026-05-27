@@ -34,8 +34,8 @@ from email.mime.text import MIMEText
 # ╚══════════════════════════════════════════════════════════════╝
 
 RECIPIENT_EMAIL = "defencedec@gmail.com"
-SENDER_EMAIL    = "defencedec@gmail.com"   # Your Gmail address
-GMAIL_APP_PASS  = "xxxx xxxx xxxx xxxx"    # Gmail App Password (NOT your login password)
+SENDER_EMAIL    = "manmahow@gmail.com"   # Your Gmail address
+GMAIL_APP_PASS  = "uscc ugea lcbi zdmj"    # Gmail App Password (NOT your login password)
                                             # Get it: Google Account → Security → App Passwords
 
 # ╔══════════════════════════════════════════════════════════════╗
