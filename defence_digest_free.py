@@ -1,4 +1,4 @@
-    """
+"""
 ╔══════════════════════════════════════════════════════════════════╗
 ║       🛡️  DEFENCE DEC — YOUTUBE CONTENT INTELLIGENCE BRIEF     ║
 ║  Upgraded: Viral Score + Media Clips + Multi-Source RSS          ║
