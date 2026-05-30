@@ -16,7 +16,7 @@ from email.mime.text import MIMEText
 # ╚══════════════════════════════════════════════════════════════╝
 RECIPIENT_EMAIL = "defencedec@gmail.com"
 SENDER_EMAIL    = "manmahow@gmail.com"
-GMAIL_APP_PASS  = os.environ.get("GMAIL_APP_PASS", "uscc ugea lcbi zdmj")
+GMAIL_APP_PASS  = os.environ.get("GMAIL_APP_PASS", "avqw ritb qcjs icuw")
 
 # ╔══════════════════════════════════════════════════════════════╗
 # ║         🎬  MEDIA CLIP SOURCES (per topic type)             ║
