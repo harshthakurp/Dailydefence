@@ -12,8 +12,8 @@ from email.mime.text import MIMEText
 # ── SETTINGS ──────────────────────────────────────────────────
 RECIPIENT_EMAIL  = "defencedec@gmail.com"
 SENDER_EMAIL     = "manmahow@gmail.com"
-GMAIL_APP_PASS   = os.environ.get("GMAIL_APP_PASS", "")
-YOUTUBE_API_KEY  = os.environ.get("YOUTUBE_API_KEY", "")
+GMAIL_APP_PASS   = os.environ.get("GMAIL_APP_PASS", "myzs tqyb zhei mdnq")
+YOUTUBE_API_KEY  = os.environ.get("YOUTUBE_API_KEY", "AIzaSyA-7VPKRc5FiUntEcW5rX9nUq4Ro2gqOBw")
 
 # ── VIRAL KEYWORDS (score engine) ─────────────────────────────
 VIRAL_KEYWORDS = {
